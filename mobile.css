@@ -1,0 +1,10 @@
+@media (min-width: 425px) {
+    .header-logo{
+       position: absolute;
+       margin-left: -288px;
+       padding-top: 30px;
+    }
+
+
+    
+}
